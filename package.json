@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lopez-aaron/test/issues"
   },
-  "homepage": "https://github.com/lopez-aaron/test#readme"
+  "homepage": "https://github.com/lopez-aaron/test#readme",
+  "dependencies": {
+    "react": "^16.3.1"
+  }
 }
